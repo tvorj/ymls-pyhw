@@ -10,21 +10,25 @@ Manytask registration and access to the original SHAD GitLab are not required.
 
 ## Week 1
 
-| Group | Task | Practice |
-| --- | --- | --- |
-| Onboarding | [hello_world](01.1.PythonTools/tasks/hello_world/README.md) | Return a string; run the first test |
-| Onboarding | [testlib_test](01.1.PythonTools/tasks/testlib_test/README.md) | Add two numbers; verify testlib installation |
-| Core | [fizz_buzz](01.2.BasicTypes/tasks/fizz_buzz/README.md) | Conditions, divisibility, and result lists |
-| Core | [iterate_me](01.2.BasicTypes/tasks/iterate_me/README.md) | Nine functions on values and indices |
-| Core | [middle_value_of_triple](01.2.BasicTypes/tasks/middle_value_of_triple/README.md) | Comparisons and the middle value |
-| Core | [reverse_list](01.2.BasicTypes/tasks/reverse_list/README.md) | Five variants; mutation versus a new list |
-| Core | [merge_lists](01.2.BasicTypes/tasks/merge_lists/README.md) | Merge sorted lists |
-| Core | [filter_list_by_list](01.2.BasicTypes/tasks/filter_list_by_list/README.md) | Filter sorted lists |
-| Core | [bin_basic](01.2.BasicTypes/tasks/bin_basic/README.md) | Binary search |
-| Core | [make_assert](01.2.BasicTypes/tasks/make_assert/README.md) | Assertions and CTR calculations |
-| Advanced | [common_type](01.2.BasicTypes_hard/tasks/common_type/README.md) | Choose a common type |
-| Advanced | [common_type_2](01.2.BasicTypes_hard/tasks/common_type_2/README.md) | Convert mixed data and handle missing values |
-| Advanced | [bin_tricky](01.2.BasicTypes_hard/tasks/bin_tricky/README.md) | Median of two sorted sequences |
+| Group | Task | Points | Practice |
+| --- | --- | --- | --- |
+| Onboarding | [hello_world](01.1.PythonTools/tasks/hello_world/README.md) | 10 | Return a string; run the first test |
+| Onboarding | [testlib_test](01.1.PythonTools/tasks/testlib_test/README.md) | 10* | Add two numbers; verify testlib installation |
+| Core | [fizz_buzz](01.2.BasicTypes/tasks/fizz_buzz/README.md) | 10 | Conditions, divisibility, and result lists |
+| Core | [iterate_me](01.2.BasicTypes/tasks/iterate_me/README.md) | 10 | Nine functions on values and indices |
+| Core | [middle_value_of_triple](01.2.BasicTypes/tasks/middle_value_of_triple/README.md) | 10 | Comparisons and the middle value |
+| Core | [reverse_list](01.2.BasicTypes/tasks/reverse_list/README.md) | 10 | Five variants; mutation versus a new list |
+| Core | [merge_lists](01.2.BasicTypes/tasks/merge_lists/README.md) | 20 | Merge sorted lists |
+| Core | [filter_list_by_list](01.2.BasicTypes/tasks/filter_list_by_list/README.md) | 20 | Filter sorted lists |
+| Core | [bin_basic](01.2.BasicTypes/tasks/bin_basic/README.md) | 20 | Binary search |
+| Core | [make_assert](01.2.BasicTypes/tasks/make_assert/README.md) | 10 | Assertions and CTR calculations |
+| Advanced | [common_type](01.2.BasicTypes_hard/tasks/common_type/README.md) | 20 | Choose a common type |
+| Advanced | [common_type_2](01.2.BasicTypes_hard/tasks/common_type_2/README.md) | 20 | Convert mixed data and handle missing values |
+| Advanced | [bin_tricky](01.2.BasicTypes_hard/tasks/bin_tricky/README.md) | 30 | Median of two sorted sequences |
+
+Points are the maximum task values from the source course configuration.
+\* `testlib_test` has a configured value of 10 points, but its scoring is disabled
+in the source course; it serves as a setup exercise.
 
 Start with the onboarding tasks, then the core tasks. The advanced group needs
 additional preparation in conversions and algorithms; ask your instructor when
